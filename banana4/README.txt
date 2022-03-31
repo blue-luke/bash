@@ -7,9 +7,5 @@ echo "One script calls another" >> README.txt
 > Overwrites the file's contents
 
 Now adding the scripts to path so they can be executed from anywhere
-Need to use:
-export PATH=$PATH:[file path from root]
-Eg:
-export PATH=$PATH:/Users/Luke.Blackburn/exercises/bash/banana3
-Then, call any executable in /banana3 from anywhere
-Tried and succeeded in executing banana.sh and tidy-banana.sh from /banana3 and /banana4
+
+Now adding the path command to profile so it loads to the shell each time, surviving restarts, etc
