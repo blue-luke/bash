@@ -13,3 +13,5 @@ Eg:
 export PATH=$PATH:/Users/Luke.Blackburn/exercises/bash/banana3
 Then, call any executable in /banana3 from anywhere
 Tried and succeeded in executing banana.sh and tidy-banana.sh from /banana3 and /banana4
+
+You don't have to worry about deleting this from path, as it won't last longer than your current shell. You could delete it, but this seems redundant
