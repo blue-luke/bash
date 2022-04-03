@@ -23,6 +23,8 @@ cd ..
 
 echo Moved to parent directory
 
+tidy-banana.sh
+
 echo Running tidy-banana.sh
 
 if [[ -d restaurant ]]
