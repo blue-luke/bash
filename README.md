@@ -2,7 +2,7 @@
 
 ## Objectives
 
-A series of short tasks designed to develop my skills with bash and scripting. 
+A series of short tasks designed to develop my skills with zsh and scripting. 
 
 This is expected to be of help with deployment pipelines. Many deployment pipelines make use of shell scripts.
 
