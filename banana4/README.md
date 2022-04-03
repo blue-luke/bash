@@ -20,3 +20,5 @@ Now adding the scripts to path so they can be executed from anywhere
 ## banana4
 
 Now adding the path command to profile so it loads to the shell each time, surviving restarts, etc
+
+This survives system reboot
